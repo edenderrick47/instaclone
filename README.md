@@ -1,4 +1,4 @@
-# Tashas Instagram Clone
+#  Instagram Clone
 
 <img src="images/insta.png">
 
